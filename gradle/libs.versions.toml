@@ -6,7 +6,7 @@ kotlin-immutable-collections = "0.3.6"
 kotlinxSerializationJson = "1.6.3"
 ksp = "1.9.25-1.0.20"
 #Detekt
-detekt = "1.23.3"
+detekt = "1.23.7"
 #Androidx
 androidx-customView = "1.2.0-alpha02"
 androidx-customViewPooling = "1.0.0"
